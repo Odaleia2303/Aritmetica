@@ -6,4 +6,5 @@ let num2 = Number(document.getElementById('num1').value)
 
 let soma = num1 + num2
 
-resposta.innerHTML = soma
+resposta.innerHTML = 'Resultado da soma = ' +soma
+}
