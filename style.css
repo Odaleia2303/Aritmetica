@@ -1,6 +1,17 @@
 body{
-    background-color: blue;
+    background-color: aqua;
     color: white;
-    font-family:  Tahoma;
-    text-align: center;
+    font-family: fantasy;
+}
+label{font-family: fantasy;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+
+}
+input,button {
+    color: white;
+    background-color: black;
+    font-size: medium;
+    border-radius: 0cqmin;
+
 }
