@@ -2,6 +2,7 @@ body{
     background-color: blueviolet;
    color: gray;
     font-family: fantasy;
+    text-align: center;
 }
 label{font-family: fantasy;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -10,7 +11,7 @@ label{font-family: fantasy;
 }
 input,button {
     color: white;
-    background-color: rgb(255, 0, 0);
+    background-color: black;
     font-size: medium;
     border-radius: 0cqmin;
 
