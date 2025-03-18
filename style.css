@@ -1,6 +1,6 @@
 body{
-    background-color: aqua;
-    color: white;
+    background-color: blueviolet;
+   color: gray;
     font-family: fantasy;
 }
 label{font-family: fantasy;
@@ -10,7 +10,7 @@ label{font-family: fantasy;
 }
 input,button {
     color: white;
-    background-color: black;
+    background-color: rgb(255, 0, 0);
     font-size: medium;
     border-radius: 0cqmin;
 
